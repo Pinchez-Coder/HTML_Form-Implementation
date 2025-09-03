@@ -1,6 +1,6 @@
 # HTML_Form-Implementation
 
-{https://codepen.io/Pinchez-Coder/pen/JoYeyab}.
+https://codepen.io/Pinchez-Coder/pen/JoYeyab
 
 *The ☝️☝️above is a link to my codepen.    
 
